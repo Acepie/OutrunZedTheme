@@ -1,0 +1,7 @@
+id = "outrun-theme"
+name = "Outrun Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ameen Radwan <therespie@gmail.com>"]
+description = "A cute cyberpunk/retro outrun inspired theme"
+repository = "https://github.com/Acepie/OutrunZedTheme"
