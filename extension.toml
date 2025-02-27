@@ -1,6 +1,6 @@
 id = "outrun"
 name = "Outrun"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Ameen Radwan <therespie@gmail.com>"]
 description = "A cute cyberpunk/retro outrun inspired theme"
