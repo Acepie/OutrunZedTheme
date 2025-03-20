@@ -11,7 +11,7 @@ jobs:
       - uses: huacnlee/zed-extension-action@v1
         with:
           extension-name: outrun
-          push-to: Acepie/zed-extensions
+          push-to: Acepie/extensions
         env:
           # the personal access token should have "repo" & "workflow" scopes
           COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
