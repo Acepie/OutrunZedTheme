@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Outrun",
   "author": "Ameen Radwan",
   "themes": [
@@ -133,6 +133,7 @@
         "unreachable": "#cc55ccff",
         "unreachable.background": "#38354eff",
         "unreachable.border": "#504c68ff",
+        "version_control.ignored": "#605d7aff",
         "warning": "#f5c177ff",
         "warning.background": "#50331aff",
         "warning.border": "#6d4d2bff",
